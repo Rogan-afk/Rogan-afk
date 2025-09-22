@@ -5,8 +5,8 @@
 
 ---
 
-## 🔎
-- 💻 Currently working on a **Hybrid RAG Architectures for Biomedicine**: Designing a **Vector DB + Knowledge Graph (KG)** framework tailored for clinical use. Optimized embeddings, parsing methods, and pipelines.   related to: *[AI-Assisted Systematic Review and Meta-Analysis in Diet-Microbiome-Kidney Research](#)*  
+## 🔎Work
+- 💻 Working on a **Hybrid RAG Architectures for Biomedicine**: Designing a **Vector DB + Knowledge Graph (KG)** framework tailored for clinical use. Optimized embeddings, parsing methods, and pipelines.   related to: *[AI-Assisted Systematic Review and Meta-Analysis in Diet-Microbiome-Kidney Research](#)*  
 ---
 
 
