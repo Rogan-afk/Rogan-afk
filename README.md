@@ -52,5 +52,7 @@ When I’m not near a screen, you’ll likely find me on long hikes—forest tra
 ---
 
 ## 📬 Reach Me  
+✉️ [rogannithin@gmail.com](mailto:rogannithin@gmail.com) 
+                       (or)
 ✉️ [nithinro@buffalo.edu](mailto:nithinro@buffalo.edu)  
 
