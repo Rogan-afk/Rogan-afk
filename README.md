@@ -73,7 +73,7 @@
 ---
 
 ## 🌱 Beyond Research  
-When I’m not near a screen, you’ll likely find me on long hikes—forest trails, beaches, or anywhere quiet and away from crowds.  
+When I’m not near a screen wracking my brain, you’ll likely find me on long hikes—forest trails, beaches, or anywhere quiet and away from crowds.   
 
 ---
 
