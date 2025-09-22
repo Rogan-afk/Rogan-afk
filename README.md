@@ -1,7 +1,7 @@
 # Hi there 👋  
 
 🎓 I’m **Nithin**, a Master’s student in **Industrial Engineering (Data Analytics focus)** at the **State University of New York at Buffalo**.  
-🔬 Currently, I work as a **Research Assistant** at SUNY RF**.  
+🔬 Currently, I work as a **Research Assistant** at [SUNY RF](https://www.rfsuny.org/)**.  
 
 ---
 
