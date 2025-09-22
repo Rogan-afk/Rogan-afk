@@ -78,4 +78,6 @@ When I’m not near a screen, you’ll likely find me on long hikes—forest tra
 ---
 
 ## 📬 Reach Me  
-✉️ [nithinro@buffalo.edu](mailto:nithinro@buffalo.edu)  
+✉ Primary email:[rogannithin@gmail.com](mailto:rogannithin@gmail.com)  
+             (OR)
+✉️[nithinro@buffalo.edu](mailto:nithinro@buffalo.edu)  
