@@ -11,7 +11,7 @@
 
 
 ## 💼 Experience  
-- **Infosys (Citibank – Big Data & ML Division)**: Senior Systems Engineer.  
+- **Infosys (Citibank – Big Data & ML Division)**: Associate System Engineer.  
   - Worked on predictive large-scale ML models for financial applications (arbitrage rates, stock & currency forecasting).  
 
 ---
