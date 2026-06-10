@@ -11,9 +11,9 @@
 
 
 ## 💼 Experience  
-- **Infosys (Citibank – Big Data & ML Division)**: Associate System Engineer.  
+- **Infosys (Big Data & Operations)**: Associate Engineer.  
   - Worked on predictive large-scale ML models for financial applications (arbitrage rates, stock & currency forecasting).  
-
+  - Performed extensive data engineering workflows including migrations and on site client automations.
 ---
 
 ## ⚡ Technical Toolbox  
